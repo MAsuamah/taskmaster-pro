@@ -6,7 +6,7 @@ A task-management application.
 
 ## How To Use 
 * Add tasks by clicking the "Add Task" button and assigning a due date. The task will then be moved into the to do box.
-* * Task that are due within a day will be highlighted yellow.
+* Task that are due within a day will be highlighted yellow.
 * You can then drag the task to other boxes ("in review", "in progress" and "done") as your progress changes.
 * If you would like to delete a task you can drag it to the bottom of the screen where it says "drop here to remove".
 * If you would like to delete all task click the delete all task button.
