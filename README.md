@@ -13,7 +13,7 @@ Add tasks by clicking the "Add Task" button and assigning a due date. The task w
 To change the progress of your task, you can drag the task to other boxes ("in review", "in progress" and "done").
 
 ### Due Date Colour Code Warning
-Task that are due within a day will be highlighted yellow.
+Tasks that are due within a day will be highlighted yellow.
 
 ### Delete Tasks
 If you would like to delete a task you can drag it to the bottom of the screen where it says "drop here to remove". To delete all tasks click the delete all tasks button.
